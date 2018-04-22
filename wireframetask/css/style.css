@@ -1,0 +1,335 @@
+/*Common styles*/
+body {
+    margin: 0px;
+    background-color: rgb(156, 79, 64);
+}
+.Container {
+   width: 850px;
+   height: 50px;
+   margin: 0px auto;
+}
+#logo {
+    width: 250px;
+    margin-top: 15px;
+    float:left;
+}
+.social {
+     color: rgb(238, 238, 182);
+     font-size: 30px;
+     font-weight:100;
+     font-family: 'Roboto', sans-serif;
+     display: inline-block;
+}
+.network{
+    color: rgb(233, 219, 219);
+    font-size: 30px;
+    font-weight: 10;
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    margin-left:-4px; 
+}
+#search{
+    width: 250px;
+    height: 30px;
+    float: left;
+    margin-top: 44px;
+    margin-left: 0px;
+}
+#uploadlogin{
+    width: 170px;
+    height: 30;
+    float: left;
+    margin-top: 44px;
+    margin-left: 55px;
+}
+.upload{
+    height:33px;
+    margin-left:15px; 
+}
+.login {
+    height:33px;
+    margin-left:15px;
+}
+#Name{
+    width: 100px;
+    height:33px;
+    float:left;
+    margin-left:0px;
+    margin-top:25px;
+    margin-right: -4px;
+}
+.soyad{
+    color:white;
+} 
+.ad{
+    color:white;
+    font-weight:15;
+    margin-top: -18px;
+}
+.circle{
+    color:white;
+    width: 25px;
+    border-radius:50%;
+    float: right;
+    margin-top: -70px;
+    margin-left: 2px;
+}
+.clear{
+    clear: both;
+}
+#menu{
+    width: 100%;
+    height: 45px;
+}
+#menulist ul {
+    margin-left:-42px;
+}
+#menulist ul li{
+    list-style: none;
+    font-size: 18px;
+    display: inline-block; 
+    margin-left:10px;
+}
+#menulist ul li a{
+    color: rgb(243, 243, 197);
+    text-decoration: none; 
+}
+#Videos {
+    width:100%;
+}
+#myvideos{
+  width: 520px;
+  height: 25px;
+}
+.title{
+ color: rgb(243, 243, 197);
+ margin-right: -40px;
+ margin-bottom: 18px;
+}
+.desc{
+ color: rgb(243, 243, 197);
+ float: left;
+ margin-top: -40px;
+ margin-left: 180px;
+}
+#pictures{
+    width: 520px;
+    margin-top: 15px;
+    margin-bottom: 2px;
+}
+.big{
+    width: 312px;
+    height: 220px;
+    margin-left: 0px;
+    float:left;
+}
+.st1{
+    width: 150px;
+    float:left;
+    margin-bottom:8px;
+    margin-right: 10px;
+    margin-left: 8px;
+}
+.st2{
+    width: 150px;
+    float:left;
+    margin-bottom:8px;
+    margin-right: 10px;
+    margin-left: 0px;
+}
+#Right{
+    width: 368px;
+    height:180px;
+    float:left;
+    margin-top: -290px;
+    margin-right: 0px;
+}
+#Activity{
+    width:368px;
+    height: 84px;
+    float:left;
+    margin-top: 0px;
+    margin-right: 0px;
+}
+.act{
+    margin-left: 0px;
+    color: rgb(243, 243, 197);
+}
+.view{
+    float:right;
+    margin-top: -38px;
+    color: rgb(243, 243, 197);
+}
+#comments{
+    width: 320px;
+    float:left;
+}
+.rec{
+    width: 55px;
+    float:left;
+}
+.com{
+    font-size: 16px;
+    color: rgb(243, 243, 197);
+}
+.prgh{
+    font-size: 12px;
+    color: rgb(243, 243, 197);
+    float:left;
+    margin-top: -2px;
+    margin-left: 5px;
+}
+.prgh2{
+    font-size: 12px;
+    color: rgb(243, 243, 197);
+    float:left;
+    margin-top: -14px;
+    margin-left: 5px;
+}
+.clear{
+    clear: both;
+}
+.icon{
+    width: 20px;
+    color:white;
+    float:left;
+    margin-left:58px;
+    margin-top: -12px;
+}
+.stat{
+    font-size: 10px;
+    color: white;
+    float:left;
+    margin-top: -20px;
+    margin-left: 0px;
+}
+.clear{
+    clear:both;
+}
+.clear{
+    clear:both;
+}
+#myvideos{
+    margin-bottom: 20px;
+}
+.desc02{
+    margin-left: 230px;
+    margin-top: -45px;
+    margin-bottom:0px;
+    color: rgb(243, 243, 197);
+}
+#Channel{
+    width:368px;
+    float:left;
+    margin-top: -700px;
+}
+#channels{
+    width:368px;
+    height: 100px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: -10px; 
+}
+.chan{
+    margin-left: 0px;
+    color: rgb(243, 243, 197);
+}
+.browse{
+    float:right;
+    margin-top: -38px;
+    color: rgb(243, 243, 197);
+}
+.clear{
+    clear:both;
+}
+#images{
+    width:366px;
+    float:left;
+    margin-top:-25px;
+    margin-left: 16px;
+}
+.corp{
+    width: 140px;
+    height: 85px;
+    float:left;
+    margin-left: 35px;
+    margin-bottom: 10px;
+}
+.clear{
+    clear:both;
+}
+.corp02{
+    width: 140px;
+    height: 85px;
+    float:left;
+    margin-left: 35px;
+    margin-bottom: 10px;
+}
+.clear{
+    clear:both;
+}
+.corp03{
+    width: 140px;
+    height: 85px;
+    float:left;
+    margin-left: 35px;
+    margin-bottom: 10px;
+}
+.clear{
+    clear:both;
+}
+.corp04{
+    width: 140px;
+    height: 85px;
+    float:left;
+    margin-left: 35px;
+    margin-bottom: 10px;
+}
+.clear{
+    clear:both;
+}
+.corp05{
+    width: 140px;
+    height: 85px;
+    float:left;
+    margin-left: 35px;
+    margin-bottom: 10px;
+}
+.clear{
+    clear:both;
+}
+#social{
+    width:850px;
+}
+#social i{
+    width:  25px;
+    height: 20px;
+    background-color: white;
+    color: rgb(156, 79, 64);
+    text-align: center;
+    padding-top: 5px;
+    margin-left: 5px;
+}
+.clear{
+    clear:both;
+}
+.footer-menu{
+    font-size: 12px;
+    width: 500px;
+    margin-left: -40px;
+    padding-top: 10px;
+}
+.footer-menu li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 5px;
+    color: rgb(243, 243, 197);
+}
+.clear{
+    clear:both;
+}
+.copyright{
+    width:500px;
+    color: rgb(243, 243, 197);
+    font-size: 12px;
+}
